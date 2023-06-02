@@ -8,7 +8,8 @@
 
 - Now, Go to GitBash terminal there goto location where we want to clone the repository and lets clone the repository
 
-![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/da874df0-ba0c-4e0c-885e-e4c53f14f1c2)
+![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/9b1fe988-67cc-42ee-99b7-9587f20dfd38)
+![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/b34ff3a0-a821-4d6d-affb-a1cc5398a24d)
 
 - Lets go inside the directory to make changes
 
