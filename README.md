@@ -1,6 +1,6 @@
 # AWS-Git
 
-###Steps to push our code into GitHub using Gitbash command line args
+### Steps to push our code into GitHub using Gitbash command line args
 
 - Firstly, goto GitHub and copy the repository code
 
