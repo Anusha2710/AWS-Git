@@ -20,3 +20,6 @@
 
 ![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/256ba1e9-e91d-410d-b96c-67237210d160)
 
+- Now, lets see whether the changes are reflected in GitHub or not.
+
+![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/07bb11cd-d968-4a76-8482-2a3c847b3a1c)
