@@ -18,7 +18,8 @@
 
 - After making changes Lets "Add" and "Commit" and 'Push" the code to GitHub.
 
-![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/256ba1e9-e91d-410d-b96c-67237210d160)
+![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/6b842625-07b5-407f-94bb-848f6d2db1b5)
+![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/eefccae8-8786-4b9d-b697-f6d69307a19c)
 
 - Now, lets see whether the changes are reflected in GitHub or not.
 
