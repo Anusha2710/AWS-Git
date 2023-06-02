@@ -13,9 +13,8 @@
 
 - Lets go inside the directory and make changes in the README file
 
-![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/cb6b194d-5575-44b2-88e3-aa285c4b3562)
-
 ![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/d5bca49b-dede-44f6-8fe8-c6f0415476b1)
+![image](https://github.com/Anusha2710/AWS-Git/assets/47424821/cb6b194d-5575-44b2-88e3-aa285c4b3562)
 
 - After making changes Lets "Add" and "Commit" and 'Push" the code to GitHub.
 
